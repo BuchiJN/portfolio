@@ -36,29 +36,6 @@ resume_header_intro: ">
 
 
 
-
-
-
-
-<p>I am a data analyst with strong expertise in transforming complex datasets into actionable insights and building data-driven solutions. I hold a Master’s degree in Data Science and have applied my skills to a variety of projects, including developing a fact-checking system using BERT transformers and FAISS vector databases with NLP frameworks like Hugging Face. 
-  \n
- I am proficient in Python, R, SQL, and modern data analysis and visualization tools such as Tableau, Power BI, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, spaCy, and NLTK.
- I have delivered projects ranging from predicting customer behavior and analyzing public school performance to classifying tumors using machine learning and forecasting crime trends. These experiences have strengthened my ability to extract meaningful insights, build robust predictive models, and communicate complex findings effectively.
- \n
- Beyond technical expertise, I bring project management experience and have led cross-functional initiatives, ensuring timely delivery and high-quality outcomes. I thrive in collaborative environments where analytical thinking, creativity, and attention to detail drive impactful solutions. 
- I remain committed to professional growth, continuously exploring emerging tools and techniques to enhance my data science expertise and deliver high-impact solutions. </p>"
-
- >
-  I am a data analyst with strong expertise in transforming complex datasets into actionable insights and building data-driven solutions. I hold a Master’s degree in Data Science and have applied my skills to a variety of projects, including developing a fact-checking system using BERT transformers and FAISS vector databases with NLP frameworks like Hugging Face.
-
-  I am proficient in Python, R, SQL, and modern data analysis and visualization tools such as Tableau, Power BI, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, spaCy, and NLTK.
-
-  I have delivered projects ranging from predicting customer behavior and analyzing public school performance to classifying tumors using machine learning and forecasting crime trends. These experiences have strengthened my ability to extract meaningful insights, build robust predictive models, and communicate complex findings effectively.
-
-  Beyond technical expertise, I bring project management experience and have led cross-functional initiatives, ensuring timely delivery and high-quality outcomes. I thrive in collaborative environments where analytical thinking, creativity, and attention to detail drive impactful solutions.
-
-  I remain committed to professional growth, continuously exploring emerging tools and techniques to enhance my data science expertise and deliver high-impact solutions.
-
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely

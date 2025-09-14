@@ -24,10 +24,10 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: |
-  <br><br>
+  <br>
   I am a data analyst with strong expertise in transforming complex datasets into actionable insights and building data-driven solutions. I hold a Master’s degree in Data Science and have applied my skills to a variety of projects, including developing a fact-checking system using BERT transformers and FAISS vector databases with NLP frameworks like Hugging Face.<br><br>
   
-  I am proficient in Python, R, SQL, and modern data analysis and visualization tools such as Tableau, Power BI, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, spaCy, and NLTK.<br><br>
+  I am proficient in Python, R, SQL, and modern data analysis and visualization tools such as Tableau, Power BI, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, spaCy, and NLTK.<br>
 
   I have delivered projects ranging from predicting customer behavior and analyzing public school performance to classifying tumors using machine learning and forecasting crime trends. These experiences have strengthened my ability to extract meaningful insights, build robust predictive models, and communicate complex findings effectively.<br><br>
 

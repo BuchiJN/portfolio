@@ -1,16 +1,48 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Patient Readmission Analysis
+- project: Patient Readmission Analysis
+  Technologies: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, JSON, CSV
+  Sector: Healthcare
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The predictive model with logistic regression produced a baseline accuracy and allowed the visualisation of key performance metrics.
+               Hospital readmission data is analysed to identify patterns and predict whether patients are likely to be readmitted within 30 days. <br>
+               Using a synthetic dataset of 30,000 records, it involves data loading, inspection, cleaning, and preprocessing, including encoding categorical variables and standardizing numerical features. 
+               Exploratory data analysis employs histograms, boxplots, pair plots, and correlation heatmaps to reveal trends.
+               Feature importance is assessed with permutation importance. <br>The workflow demonstrates a complete Python-based pipeline for healthcare analytics and predictive modeling.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Breast Cancer Classification
+- project: Breast Cancer Classification
+  Technologies: Python, Fastai v1, PyTorch, Torchvision, OpenCV, NumPy, pandas, Matplotlib, scikit-learn
+  Sector: Healthcare
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: ML model for tumor classification. Metastases in 96×96px histopathology images can be detected using a pretrained DenseNet169 with Fastai v1.
+               Images are preprocessed and augmented to improve quality and reduce overfitting. The model is trained with the one-cycle policy and evaluated via accuracy, ROC, and Grad-CAM. <br>
+               It can assist pathologists by quickly identifying tumor regions, reducing manual inspection time, and improving early cancer detection and diagnostic accuracy.<br>
+
+
+# Stroke Risk Prediction
+- project: Stroke Risk Prediction
+  Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+  Sector: Healthcare
+  # url: "#"
+  description: Stroke risk is predicted using patient health data. Several machine learning models—including Decision Tree, Random Forest, XGBoost, and Logistic Regression—were trained. <br>
+               Random Forest achieved the highest accuracy. <br>
+               The model can assist in early stroke detection, prioritize high-risk patients, and guide preventive care strategies. It also allows real-time risk prediction based on individual patient inputs.
+
+
+# Other Projects
+- project: Other Projects
+  Technologies: Python, BERT Transformers, Hugging Face, FAISS Vector Database, scikit-learn, <br>
+                pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, <br>
+                NLTK, spaCy, K-means Clustering, Regression Modeling, <br>
+                Exploratory Data Analysis (EDA), Time Series Analysis, Data Preprocessing, <br>
+                Feature Engineering, Standardized Test Analysis, Trend Analysis, Visualization Libraries, SQL, Jupyter Notebook
+  Sector: Healthcare
+  # url: "#"
+  description: Fact-Checking System- BERT transformers & FAISS vector database with Hugging Face. <br>
+              Predicting Movie Rental Durations- Regression modeling for DVD rental predictions. <br>
+              Netflix Movie Data Analysis- Exploratory data analysis for insights. <br>
+              NYC Public School SAT Results- Standardized test performance analysis. <br>
+              Time Series Analysis of Violent Crime- Trends analysis during lockdown.
